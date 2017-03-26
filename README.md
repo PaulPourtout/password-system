@@ -1,2 +1,9 @@
 # password-system
-Login/Password System with NodeJs and MongoDb
+A basic Login/Password System using NodeJs and MongoDb
+
+
+### Technologies
+* NodeJS
+* Express
+* Mongoose
+* MongoDB
